@@ -4,7 +4,6 @@ import javax.swing.*;
 
 public class BikeRental {
 
-
     public static void main(String [] args){
 
         //JFrame here isn't strictly
