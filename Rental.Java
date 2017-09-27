@@ -2,6 +2,7 @@ package rental;
 
 public class Rental {
 
+    //these are our variables for the Rental Object which we will use in our project.
     String renterName;
     String rentalDuration;
     String bikeType;
