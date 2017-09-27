@@ -1,6 +1,6 @@
 package rental;
 
-public class RentalXXXX {
+public class Rental {
 
     String renterName;
     String rentalDuration;
